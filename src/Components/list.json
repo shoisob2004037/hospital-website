@@ -1,0 +1,264 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. John Doe",
+      "designation": "Senior Consultant",
+      "image": "https://www.docbooking.ch/uploads/doctors/doc1-5f41661a7458e.jpeg",
+      "address": "123 Main St, Springfield, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "category": "Cardiologist",
+      "details" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "phone": [
+        "+1-123-456-7890",
+        "+1-987-654-3210"
+      ]
+    },
+    {
+      "name": "Dr. Jane Smith",
+      "designation": "Cardiac Surgeon",
+      "image": "https://www.cdc.gov/diabetes/images/library/spotlights/clinic-doctor-image.png?_=45953",
+      "address": "456 Elm St, Chicago, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "category": "Heart Specialist",
+      "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "phone": [
+        "+1-555-234-5678",
+        "+1-555-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Emily Marry",
+      "designation": "Consultant Physician",
+      "image": "https://img.freepik.com/premium-photo/medical-concept-indian-beautiful-female-doctor-white-coat-with-stethoscope-waist-up-medical-student-woman-hospital-worker-looking-camera-smiling-studio-blue-background_185696-621.jpg?w=1380",
+      "address": "789 Oak St, Springfield, IL",
+      "study_background": "MBBS, MD (Internal Medicine)",
+      "category": "Dermatologist",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "phone": [
+        "+1-312-345-6789",
+        "+1-312-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Michael Brown",
+      "designation": "Senior Cardiologist",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-doctorsdoctorsdoctors-and-nursesa-qualified-practitioner-of-medicine-aclinicianmedical-practitionermale-doctornotepad-1421526857009zrma0.png",
+      "address": "123 Pine St, Aurora, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "category": "Cardiologist",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "phone": [
+        "+1-630-456-7890",
+        "+1-630-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. Lisa Wilson",
+      "designation": "Heart Surgeon",
+      "image": "https://wallpapercave.com/wp/wp3353748.jpg",
+      "address": "321 Maple St, Naperville, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "category": "Phychiatrist ",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "phone": [
+        "+1-708-234-5678",
+        "+1-708-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Robert Martinez",
+      "designation": "Consultant Cardiologist",
+      "image": "https://lakshmihospitalpalakkad.com/wp-content/uploads/2022/07/DR-PRAVEEN-DNB-GEN.-SURGERY-MNAMS-FMAS-General-Surgeon.jpg",
+      "address": "654 Birch St, Joliet, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Neurologist",
+      "phone": [
+        "+1-815-345-6789",
+        "+1-815-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Sarah Lee",
+      "designation": "Cardiac Specialist",
+      "image": "https://lirp.cdn-website.com/md/dmip/dms3rep/multi/opt/medical-doctor-office-1920w.jpg",
+      "address": "987 Cedar St, Rockford, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Phychiatrist ",
+      "phone": [
+        "+1-815-456-7890",
+        "+1-815-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. James Thompson",
+      "designation": "Cardiothoracic Surgeon",
+      "image": "https://doctordir.com/wp-content/uploads/2016/07/Demo-destacado.jpg",
+      "address": "159 Walnut St, Evanston, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "category": "Heart Specialist",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "phone": [
+        "+1-847-234-5678",
+        "+1-847-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Patricia Johnson",
+      "designation": "Senior Cardiologist",
+      "image": "https://demo.tagdiv.com/newspaper_doctors_pro/wp-content/uploads/2022/07/hero-graphic.png",
+      "address": "753 Spruce St, Peoria, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "category": "Gynecologist",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "phone": [
+        "+1-309-345-6789",
+        "+1-309-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Christopher White",
+      "designation": "Phychiatrist Specialist",
+      "image": "https://thevoiceofblackcincinnati.com/wp-content/uploads/2021/06/AdobeStock_305412791-scaled.jpeg",
+      "address": "951 Redwood St, Waukegan, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Phychiatrist",
+      "phone": [
+        "+1-847-456-7890",
+        "+1-847-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. Karen Taylor",
+      "designation": "Heart Surgeon",
+      "image": "https://www.blissmedicines.com/wp-content/uploads/2020/04/FunctionalMedicineDoctorChicago-960w.jpeg",
+      "address": "258 Chestnut St, Schaumburg, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Heart Specialist",
+      "phone": [
+        "+1-847-234-5678",
+        "+1-847-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Daniel Anderson",
+      "designation": "Consultant Physician",
+      "image": "https://www.co.washington.mn.us/ImageRepository/Document?documentID=22153",
+      "address": "852 Willow St, Cicero, IL",
+      "study_background": "MBBS, MD (Internal Medicine)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Cardiologist",
+      "phone": [
+        "+1-708-345-6789",
+        "+1-708-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Jennifer Martinez",
+      "designation": "Cardiothoracic Surgeon",
+      "image": "https://pngteam.com/images/doctor-png-1200x1657_0e135a16_transparent.png",
+      "address": "369 Poplar St, Champaign, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "details" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "category": "Heart Specialist",
+      "phone": [
+        "+1-217-456-7890",
+        "+1-217-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. Charles Davis",
+      "designation": "Senior Consultant",
+      "image": "https://c8.alamy.com/comp/2H640HA/headshot-portrait-of-smiling-young-male-gp-or-physician-in-white-medical-uniform-and-glasses-look-at-camera-posing-in-hospitalhappy-caucasian-man-doctor-show-confidence-skills-in-clinic-workplace-2H640HA.jpg",
+      "address": "147 Cypress St, Arlington Heights, IL",
+      "details" : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "study_background": "MBBS, MD (Cardiology)",
+      "category": "Cardiologist",
+      "phone": [
+        "+1-847-234-5678",
+        "+1-847-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Anne Marie",
+      "designation": "Brain Specialist",
+      "image": "https://www.insurancejournal.com/app/uploads/2014/01/Doctor.jpg",
+      "address": "951 Cedar St, Oak Park, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "category": "Neurologist",
+      "phone": [
+        "+1-708-345-6789",
+        "+1-708-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Christian Jenny ",
+      "designation": "Consultant Cardiologist",
+      "image": "https://www.primenewsghana.com/images/2017/nov/13/medical-doctors.jpg",
+      "address": "753 Maple St, Skokie, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Cardiologist",
+      "phone": [
+        "+1-847-456-7890",
+        "+1-847-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. Laura Miller",
+      "designation": "Cardiac Surgeon",
+      "image": "https://getwallpapers.com/wallpaper/full/2/6/1/302428.jpg",
+      "address": "852 Elm St, Decatur, IL",
+      "study_background": "MBBS, MS (Cardiothoracic Surgery)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Gynecologist",
+      "phone": [
+        "+1-217-234-5678",
+        "+1-217-876-5432"
+      ]
+    },
+    {
+      "name": "Dr. Ryan Wilson",
+      "designation": "Senior Cardiologist",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.8gwuuz0W2lIVOQ9qfeh2WgHaJR&pid=Api&P=0&h=220",
+      "address": "159 Pine St, Palatine, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "category": "Dermatologist",
+      "phone": [
+        "+1-847-345-6789",
+        "+1-847-987-6543"
+      ]
+    },
+    {
+      "name": "Dr. Michelle Clark",
+      "designation": "Consultant Cardiologist",
+      "image": "https://www.blissmedicines.com/wp-content/uploads/2020/04/FunctionalMedicineDoctorChicago-960w.jpeg",
+      "address": "753 Spruce St, Elgin, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "category": "Cardiologist",
+      "phone": [
+        "+1-847-456-7890",
+        "+1-847-987-6540"
+      ]
+    },
+    {
+      "name": "Dr. William Moore",
+      "designation": "Heart Specialist",
+      "image": "https://www.sandyspringsoms.com/wp-content/uploads/michael-m-demo-dds-photo.jpg",
+      "address": "951 Willow St, Bloomington, IL",
+      "study_background": "MBBS, MD (Cardiology)",
+      "details" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "category": "Phychiatrist",
+      "phone": [
+        "+1-309-234-5678",
+        "+1-309-876-5432"
+      ]
+    }
+  ]
+}

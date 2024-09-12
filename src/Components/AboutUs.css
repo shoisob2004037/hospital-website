@@ -1,0 +1,18 @@
+/* About.css */
+.container h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+.container{
+    background-image: url(../Images/Screenshot\ 2024-08-28\ 015239.png);
+    background-size: cover;
+    background:linear-gradient(#7edee315,#d48282);
+    border-radius: 15px;
+}
+.container p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+}

@@ -1,0 +1,101 @@
+/* DoctorDetails.css */
+
+.details-page {
+    background-color: #f8f9fa; /* Consistent background */
+    padding: 30px 20px;
+}
+
+.doctor-details {
+    background-color: #fff; /* White background for the details section */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+    padding: 30px; /* Padding inside the details card */
+    text-align: center; /* Center align text */
+    max-width: 800px; /* Set max width for readability */
+    margin: 0 auto 40px; /* Center the card and add margin at the bottom */
+}
+
+.doctor-image {
+    width: 100%; /* Full width image */
+    height: 400px; /* Fixed height */
+    object-fit: cover; /* Cover without distortion */
+    border-bottom: 5px solid #007bff; /* Consistent blue border at the bottom */
+    border-radius: 15px 15px 0 0; /* Match the card's rounded corners */
+    margin-bottom: 20px;
+}
+
+.name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.desig {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.doctor-details h3 {
+    color: #888;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.doctor-details p {
+    color: #555;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+
+
+/* All Other Doctors Section */
+.details-page h1 {
+    margin-top: 40px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #28a745; /* Green color to match the style */
+    text-align: center;
+}
+.btn {
+    background: linear-gradient(45deg, #007bff, #00d4ff); /* Gradient background */
+    color: #fff;
+    padding: 12px 25px; /* Slightly larger padding for a more prominent button */
+    font-size: 1.2rem; /* Increase font size */
+    font-weight: bold;
+    border: none;
+    border-radius: 50px; /* Rounded, pill-shaped button */
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition for all properties */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: rgba(255, 255, 255, 0.15);
+    transition: all 0.3s ease;
+    border-radius: 50%;
+    z-index: -1;
+    transform: translate(-50%, -50%) scale(0);
+}
+
+.btn:hover {
+    background: linear-gradient(45deg, #0056b3, #0096d6); /* Darken gradient on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+    transform: translateY(-3px); /* Lift the button slightly on hover */
+}
+
+.btn:hover::before {
+    transform: translate(-50%, -50%) scale(1); /* Expand the radial highlight */
+}

@@ -1,0 +1,28 @@
+/* Services.css */
+.container h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.container ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #555;
+    padding-left: 20px;
+    position: relative;
+}
+
+.container ul li::before {
+    content: '✔';
+    color: #007bff;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

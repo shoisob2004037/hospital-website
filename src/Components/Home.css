@@ -1,0 +1,29 @@
+/* Home.css */
+.home {
+    background-color: darkgreen;
+    background-image: url(../Images/hospital.png);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.length{
+    color: rgba(234, 218, 219, 0.415);
+}
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.jumbotron h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+}
